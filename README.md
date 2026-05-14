@@ -1,18 +1,24 @@
-Analysis Dashboard Sales Superstore with Tableau
-Deskripsi Proyek
-Proyek ini bertujuan untuk menganalisis data penjualan Superstore untuk mengidentifikasi tren, kategori produk yang paling menguntungkan, dan performa wilayah.
+Superstore Sales Analysis
 
-Detail Analisis (Setiap Halaman)
-Berikut adalah detail visualisasi dari 7 halaman analisis yang dilakukan:
-1. Sales Per States: Analisis geografis penjualan.
-2. Trend Sales: Tren penjualan dari tahun 2023-2026.
-3. Sales Category: Perbandingan total penjualan antar kategori.
-4. Category Quantity: Pemantauan jumlah unit yang terjual di setiap kategori.
-5. Detail & Measures: Laporan mendalam dan perhitungan teknis yang digunakan dalam analisis.
+Project Overview
+This project provides a comprehensive analysis of Superstore sales data to identify growth trends, high-margin product categories, and regional performance metrics. The goal is to transform raw sales data into actionable business insights through interactive visualization.
 
-Link Dashboard Interaktif
-Anda bisa mencoba dashboard ini secara interaktif di sini:
-[Lihat di Tableau Public](https://public.tableau.com/app/profile/amin.sabari/viz/AnalysisDashboardSalesSuperstorewithTableau/Dashboard)
+Analytical Breakdown
+The dashboard is structured into several specialized views to provide a holistic business perspective:
 
-File Proyek
-File `.twbx` tersedia di repositori ini bagi yang ingin melihat struktur teknis di Tableau public.
+1. Sales Per States: A geographic analysis focusing on regional sales distribution and market penetration.
+2. Trend Sales: A longitudinal study of sales performance covering the 2023–2026 period.
+3. Sales Category: A comparative analysis of total revenue generated across different product lines.
+4. Category Quantity: Monitoring inventory movement and unit sales volume by category.
+5. Detail & Measures: A technical deep-dive featuring granular reporting and the underlying calculated fields/measures used in the analysis.
+
+Technical Implementation
+Tool: Tableau Public.
+
+Calculations: Implementation of custom measures to track KPIs and business metrics.
+Data Modeling: Structured to support multi-page navigation and interactive filtering.
+
+Access Information
+Interactive Dashboard: View on Tableau Public.
+
+Project Files: The source .twbx file is included in this repository for technical review of the workbook structure.
